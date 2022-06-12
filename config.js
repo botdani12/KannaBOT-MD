@@ -44,32 +44,32 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/itzme_nitsj_'
-global.sgh = 'https://github.com/JakaV1'
-global.sgc = 'https://chat.whatsapp.com/ED7th5Ie38eBayZEbDPxwY'
-global.sdc = 'https://instagram.com/itzme_nitsu'
+global.sig = 'https://instagram.com/farhanlubs?igshid=ZDc0MTNkNmI='
+global.sgh = '-'
+global.sgc = 'https://chat.whatsapp.com/JNlOQY4Mr5f0vUwEQ8yqKG'
+global.sdc = 'https://instagram.com/farhanlubs?igshid=ZDc0MTNkNmI='
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '081335334848'
-global.povo = '-'
-global.pgopay = '085785694474'
-global.ppulsa = '081335334848'
-global.ppulsa2 = '081335334848'
+global.pdana = '6281310790115'
+global.povo = '6281310790115'
+global.pgopay = '6281310790115'
+global.ppulsa = '6281310790115'
+global.ppulsa2 = '6281310790115'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281335334848'
-global.nomorown = '6285785694474'
-global.namebot = 'Zerotwo Botz'
-global.nameown = 'Jaka - Kun'
+global.nomorbot = '6281310790115'
+global.nomorown = '6281310790115'
+global.namebot = 'Bigbos Botz'
+global.nameown = 'Farhan'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285785694474'],
-  ['6285785694474'],
-  ['6285785694474'],
+  ['6281310790115'],
+  ['6281310790115'],
+  ['6281310790115'],
   ['6285785694474', 'LETTA ! 🐰', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
@@ -116,21 +116,21 @@ global.APIKeys = { // APIKey Here
 
 /*============== WATERMARK ==============*/
 //GANTI SETERAH MU
-global.wm = '                「 Zerotwo Botz あ⁩ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Zerotwo - chαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Zerotwo Botz'
+global.wm = '                「 Bigbos Botz あ⁩ 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Bigbos - chαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ Bigbos Botz'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = '🌱 ┊ 𝗥𝗣𝗚 Whatsapp ʙᴏᴛ'
-global.author = '                「 Zerotwo Botz あ⁩ 」'
+global.author = '                「 Bigbos Botz あ⁩ 」'
 
 
 /*============== LOGO ==============*/
 // INI JUGA GANTI SETERAH MU
-global.thumb = 'https://telegra.ph/file/e6ce59a67df2226ae8ff4.jpg' //Main Thumbnail
-global.thumb2 = 'https://telegra.ph/file/e6ce59a67df2226ae8ff4.jpg'
-global.thumbbc = 'https://telegra.ph/file/e6ce59a67df2226ae8ff4.jpg' //For broadcast
-global.giflogo = 'https://telegra.ph/file/e6ce59a67df2226ae8ff4.jpg'
+global.thumb = 'https://telegra.ph/file/56cf65deedd2eef37be8b.jpg' //Main Thumbnail
+global.thumb2 = 'https://telegra.ph/file/56cf65deedd2eef37be8b.jpg'
+global.thumbbc = 'https://telegra.ph/file/56cf65deedd2eef37be8b.jpg' //For broadcast
+global.giflogo = 'https://telegra.ph/file/56cf65deedd2eef37be8b.jpg'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
