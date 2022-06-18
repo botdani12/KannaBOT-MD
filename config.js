@@ -127,10 +127,10 @@ global.author = '                「 VīoLaꪶ͢Botzꫂ⁩ あ⁩ 」'
 
 /*============== LOGO ==============*/
 // INI JUGA GANTI SETERAH MU
-global.thumb = 'https://telegra.ph/file/56cf65deedd2eef37be8b.jpg' //Main Thumbnail
-global.thumb2 = 'https://telegra.ph/file/56cf65deedd2eef37be8b.jpg'
-global.thumbbc = 'https://telegra.ph/file/56cf65deedd2eef37be8b.jpg' //For broadcast
-global.giflogo = 'https://telegra.ph/file/56cf65deedd2eef37be8b.jpg'
+global.thumb = 'https://telegra.ph/file/d4e18fd845a368ab401a6.jpg' //Main Thumbnail
+global.thumb2 = 'https://telegra.ph/file/d4e18fd845a368ab401a6.jpg'
+global.thumbbc = 'https://telegra.ph/file/d4e18fd845a368ab401a6.jpg' //For broadcast
+global.giflogo = 'https://telegra.ph/file/d4e18fd845a368ab401a6.jpg'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
