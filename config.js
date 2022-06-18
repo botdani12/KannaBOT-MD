@@ -48,7 +48,7 @@ global.sig = 'https://instagram.com/itsme_nitsu'
 global.sgh = 'http://github.com/JakaV4''
 global.sgc = 'https://chat.whatsapp.com/ED7th5Ie38eBayZEbDPxwY'
 global.sdc = 'https://instagram.com/itsme_nitsu'
-global.snh = 'https://instagram.com/itsme_nitsu'
+global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
 global.pdana = '081335334848'
@@ -62,7 +62,7 @@ global.psaweria = '-'
 global.nomorbot = '79111309292'
 global.nomorown = '6285785694474'
 global.namebot = 'VīoLaꪶ͢Botzꫂ⁩'
-global.nameown = 'λζάκαꪶ͢Kunꫂ⁩'
+global.nameown = 'Jάκαꪶ͢Kunꫂ⁩'
 
 
 /*============== STAFF ==============*/
