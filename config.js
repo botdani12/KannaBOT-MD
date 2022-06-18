@@ -44,32 +44,32 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/farhanlubs?igshid=ZDc0MTNkNmI='
-global.sgh = '-'
-global.sgc = 'https://chat.whatsapp.com/JNlOQY4Mr5f0vUwEQ8yqKG'
-global.sdc = 'https://instagram.com/farhanlubs?igshid=ZDc0MTNkNmI='
-global.snh = 'https://nhentai.net/g/365296/'
+global.sig = 'https://instagram.com/itsme_nitsu'
+global.sgh = 'http://github.com/JakaV4''
+global.sgc = 'https://chat.whatsapp.com/ED7th5Ie38eBayZEbDPxwY'
+global.sdc = 'https://instagram.com/itsme_nitsu'
+global.snh = 'https://instagram.com/itsme_nitsu'
 
 /*============== PAYMENT ==============*/
-global.pdana = '6281310790115'
-global.povo = '6281310790115'
-global.pgopay = '6281310790115'
-global.ppulsa = '6281310790115'
-global.ppulsa2 = '6281310790115'
+global.pdana = '081335334848'
+global.povo = '-'
+global.pgopay = '085785694474'
+global.ppulsa = '081335334848'
+global.ppulsa2 = '081335334848'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281310790115'
-global.nomorown = '6281310790115'
-global.namebot = 'Bigbos Botz'
-global.nameown = 'Farhan'
+global.nomorbot = '79111309292'
+global.nomorown = '6285785694474'
+global.namebot = 'VīoLaꪶ͢Botzꫂ⁩'
+global.nameown = 'λζάκαꪶ͢Kunꫂ⁩'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281310790115'],
-  ['6281310790115'],
-  ['6281310790115'],
+  ['6285785694474'],
+  ['6285785694474'],
+  ['6285785694474'],
   ['6285785694474', 'LETTA ! 🐰', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
@@ -116,13 +116,13 @@ global.APIKeys = { // APIKey Here
 
 /*============== WATERMARK ==============*/
 //GANTI SETERAH MU
-global.wm = '                「 Bigbos Botz あ⁩ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Bigbos - chαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Bigbos Botz'
+global.wm = '                「 VīoLaꪶ͢Botzꫂ⁩ あ⁩ 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘VīoLaꪶ͢Chanꫂ⁩˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ VīoLaꪶ͢Botzꫂ⁩'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = '🌱 ┊ 𝗥𝗣𝗚 Whatsapp ʙᴏᴛ'
-global.author = '                「 Bigbos Botz あ⁩ 」'
+global.author = '                「 VīoLaꪶ͢Botzꫂ⁩ あ⁩ 」'
 
 
 /*============== LOGO ==============*/
